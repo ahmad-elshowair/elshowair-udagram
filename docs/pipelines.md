@@ -1,7 +1,13 @@
 # pipeline process
+udagram application is deploying using **Circleci**
 
-## CI/CD
-
+## steps
+Install and setup:
+- AWS CLI
+- browser
+- Node
+- AWS Elastic Beanstalk
+### CI/CD
 #### Continuos Integration ==> CI 
 continuos integration that responsible for installation the dependencies, Testing and Building the application and within the udagram project I'm using:
 * Installation both apps frontend and 
