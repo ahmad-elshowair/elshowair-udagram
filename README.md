@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=shield)](https://app.circleci.com/pipelines/github/ahmad-elshowair/elshowair-udagram)
+
 # Udagram
 the udagram application is a full stack project that is uploaded and deployed on [AWS](https://aws.amazon.com/) services: 
 - RDS
