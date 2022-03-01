@@ -50,6 +50,7 @@ jobs:
           command: |
             npm run deploy-backend
 workflows:
+  version: 2
   Udagram:
     jobs:
       - build:
