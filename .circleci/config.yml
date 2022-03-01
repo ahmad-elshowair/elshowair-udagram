@@ -49,3 +49,11 @@ jobs:
           name: Back-End Deploy
           command: |
             npm run deploy-backend
+workflows:
+  Udagram:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - main
